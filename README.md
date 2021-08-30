@@ -18,4 +18,4 @@ Event generation occurs in "get()":
 4. Scale the impulse response to the desired SNR and add to noise.
 5. Generate desired CW interference, if any, and add to signal.
 
-Then you can look in pueo_class_test for some of the trigger testing. One thing that needs to be done is a better way of testing various trigger flows.
+Then you can look in pueo_class_test for some of the trigger testing, however that notebook is a *disaster*.
